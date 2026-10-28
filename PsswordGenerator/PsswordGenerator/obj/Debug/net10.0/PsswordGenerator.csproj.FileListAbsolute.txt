@@ -1,0 +1,15 @@
+C:\Projekte\PsswordGenerator\PsswordGenerator\bin\Debug\net10.0\PsswordGenerator.exe
+C:\Projekte\PsswordGenerator\PsswordGenerator\bin\Debug\net10.0\PsswordGenerator.deps.json
+C:\Projekte\PsswordGenerator\PsswordGenerator\bin\Debug\net10.0\PsswordGenerator.runtimeconfig.json
+C:\Projekte\PsswordGenerator\PsswordGenerator\bin\Debug\net10.0\PsswordGenerator.dll
+C:\Projekte\PsswordGenerator\PsswordGenerator\bin\Debug\net10.0\PsswordGenerator.pdb
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\PsswordGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\PsswordGenerator.AssemblyInfoInputs.cache
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\PsswordGenerator.AssemblyInfo.cs
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\PsswordGenerator.csproj.CoreCompileInputs.cache
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\PsswordGenerator.dll
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\refint\PsswordGenerator.dll
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\PsswordGenerator.pdb
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\PsswordGenerator.genruntimeconfig.cache
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\ref\PsswordGenerator.dll
+C:\Projekte\PsswordGenerator\PsswordGenerator\obj\Debug\net10.0\PsswordG.9998E67E.Up2Date
